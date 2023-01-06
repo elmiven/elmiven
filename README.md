@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @elmiven
-- 🌱 I’m currently learning Git, JS, React
+- 🌱 I’m currently learning Git, JS, TS, React
